@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @marko-pol
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning front-end Web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mrkus Moore
+- 👀 I’m interested in Information Systems and computer networks.
+- 🌱 I’m currently learning SQL and Database Management
+- 💞️ I’m looking to collaborate on meaningful projects.
+- 📫 Reach me @ mamoore2005@gmail.com
 
 <!---
 marko-pol/marko-pol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
